@@ -1,51 +1,35 @@
-## Oláá! Eu sou France Nádia 👋
+# Oláá! Eu sou France Nádia 👋
 
+Desenvolvedora Backend (PHP/Laravel).
 
+## 🚀 Sobre Mim
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desenvolvedora Backend com experiência na construção e manutenção de APIs REST e sistemas em produção.
+- Vivência com autenticação JWT e aplicação de regras de negócio.
+- Experiência com Docker e MySQL.
+- Comprometida com código organizado, boas práticas e arquitetura backend bem estruturada.
 
-<div align="center">
-  <a href="https://github.com/FranceNadiaSM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranceNadiaSM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranceNadiaSM&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## 🛠 Tecnologias
 
-### 🛠️ Tecnologias e Ferramentas
+- PHP | Laravel
+- MySQL
+- Docker
+- Git
+- APIs REST
+- Autenticação JWT
+- PHPUnit
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="center" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Composer" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg">
-</div>
+<!-- ## 📌 Projeto Principal
+🔹 Rental Booking API – Aplicação de regras de negócio, validação de disponibilidade e autenticação JWT. -->
 
-### 📈 Estatísticas do GitHub
+## 📫 Contato
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FranceNadiaSM&theme=dracula)
-
-### 🌐 Conecte-se comigo
-
-<div> 
+<div>
   <a href="https://www.linkedin.com/in/france-nadia-sm" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://instagram.com/francee_nadia" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
 </div>
 
-### 🐍 Contribuições
+## 🐍 Contribuições
 
 ![Snake animation](https://github.com/FranceNadiaSM/FranceNadiaSM/blob/output/github-contribution-grid-snake.svg)
